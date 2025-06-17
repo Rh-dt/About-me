@@ -1,17 +1,18 @@
-## 📝 **README.md**
 # 🚀 About Me — HTML Basic Learning
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Halo! 👋  
-Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok banget buat kamu yang baru mulai belajar HTML. Di sini kamu akan belajar membuat halaman web sederhana dengan elemen-elemen seperti: **heading**, **paragraf**, **gambar**, **list**, dan **link**.
+Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok banget untuk pemula yang ingin belajar membuat halaman web pertama mereka.
 
 ---
 
-## 📌 Apa yang ada di proyek ini?
-✅ Halaman HTML sederhana (index.html)  
-✅ CSS terpisah untuk latihan styling  
-✅ Gambar profil (bisa pakai gambar sendiri!)  
-✅ List hobi atau minat  
-✅ Link ke profil GitHub  
+## 📌 Apa yang akan dipelajari?
+✅ Struktur HTML sederhana  
+✅ Tag penting: `<h1>`, `<p>`, `<ul>`, `<li>`, `<a>`, `<img>`  
+✅ Pemisahan file CSS (biar lebih rapi)  
+✅ Link dan gambar dalam HTML  
+✅ Sedikit styling CSS  
 
 ---
 
@@ -20,22 +21,22 @@ Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok bang
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>About Me - HTML Basic Learning</title>
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
     <h1>About Me</h1>
-    <img src="assets/images/profile.jpg" alt="Profile Photo">
-    <p>Hi! I'm RH. I love coding and sharing knowledge about HTML for beginners.</p>
+    <img src="assets/profile.png" alt="Profile Photo" />
+    <p>Hi! I'm RH. I like coding and sharing knowledge about HTML for beginners.</p>
 
     <h2>My Hobbies</h2>
     <ul>
       <li>Coding</li>
-      <li>Reading</li>
-      <li>Gaming</li>
+      <li>Playing Minecraft</li>
+      <li>Experiment</li>
     </ul>
 
     <p>Check out my <a href="https://github.com/Rh-dt" target="_blank">GitHub Profile</a>!</p>
@@ -72,39 +73,51 @@ img {
 
 ---
 
-## 🌟 Cara menjalankan
+## 💻 **Cara pakai project ini**
 
-1️⃣ Salin kode di atas ke file bernama `index.html` dan `style.css`
-2️⃣ Buka file `index.html` di browser (Chrome, Edge, Firefox, dll)
-3️⃣ Tadaaa! Lihat hasilnya!
+### 📥 Download project
 
-> 🎨 **Tips:**
->
-> * Ganti foto jadi foto kamu sendiri (taruh di `assets/images/`)
-> * Ubah warna atau font di `style.css`
-> * Tambahkan elemen baru: tombol, video, dsb
+✅ Cara download sebagai ZIP:
 
----
+1. Klik tombol **Code** (warna hijau) di atas repo
+2. Pilih **Download ZIP**
+3. Ekstrak ZIP di folder kamu
 
-## 🙌 Siapa yang buat?
+✅ Cara clone via Git:
 
-👤 [RH](https://github.com/Rh-dt)
-
-Aku bikin ini untuk berbagi ke teman-teman yang baru mulai belajar HTML. Semangat ngoding yaa! 💻
-
----
-
-## 💡 License
-
-Proyek ini bebas dipakai untuk belajar dan latihan! 🚀
-
----
-
-## 📂 **Struktur folder**
+```bash
+git clone https://github.com/Rh-dt/About-me.git
 ```
-about-me/
+
+---
+
+## 🛠 **Direkomendasikan compiler**
+
+Kamu bisa pakai **Acode** (Android code editor) kalau ngoding di HP:
+👉 [Download Acode di Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+
+✨ *Buka `index.html` di Acode → tekan ikon play (▸) → langsung lihat hasil di browser bawaan Acode!*
+
+---
+
+## 🗂 Struktur folder
+
+```
+About-me/
 ├── index.html
+├── style.css
 └── assets/
-      └── style.css
-└── images/
-      └── profile.jpg
+      └── profile.png
+```
+
+---
+
+## 👑 Author
+
+Made with 🔥 by [RH](https://github.com/Rh-dt)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE). &copy; RH 2025
