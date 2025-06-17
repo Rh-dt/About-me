@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rh-dt.About-me)
+
 Halo! 👋  
 Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok banget untuk pemula yang ingin belajar membuat halaman web pertama mereka.
 
