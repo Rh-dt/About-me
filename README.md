@@ -14,6 +14,9 @@ Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok bang
 ✅ Link dan gambar dalam HTML  
 ✅ Sedikit styling CSS  
 
+## 👁️ Lihat preview
+Lihat preview hasil kode di: [https://rh-dt.github.io/About-me/](https://rh-dt.github.io/About-me/)
+
 ---
 
 ## ⚡ Contoh kode `index.html`
