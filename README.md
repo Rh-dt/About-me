@@ -5,6 +5,8 @@
 Halo! 👋  
 Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok banget untuk pemula yang ingin belajar membuat halaman web pertama mereka.
 
+> 🌟 Kalau proyek ini bermanfaat, jangan lupa untuk kasih bintang ⭐ dan share ke teman-teman kamu ya!
+
 ---
 
 ## 📌 Apa yang akan dipelajari?
@@ -76,6 +78,8 @@ img {
 
 ---
 
+> 🚀 Yuk bantu support dengan memberikan ⭐ star dan share repo ini ke teman belajar kamu!
+
 ## 💻 **Cara pakai project ini**
 
 ### 📥 Download project
@@ -118,6 +122,8 @@ About-me/
 ## 👑 Author
 
 Made with 🔥 by [RH](https://github.com/Rh-dt)
+
+> 💡 Dukung terus projek sederhana ini dengan klik ⭐ star dan share biar makin banyak yang belajar!
 
 ---
 
