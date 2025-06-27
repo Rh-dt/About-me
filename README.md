@@ -19,7 +19,7 @@ Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok bang
 ✅ Sedikit styling CSS  
 
 ## 👁️ Lihat preview
-Lihat preview hasil kode di: [https://rh-dt.github.io/About-me/](https://rh-dt.github.io/card/)
+Lihat preview hasil kode di: [https://rh-dt.github.io/card/](https://rh-dt.github.io/card/)
 
 ---
 
