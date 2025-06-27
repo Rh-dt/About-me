@@ -1,8 +1,8 @@
-# 🚀 About Me — HTML Basic Learning
+# 🚀 Card — HTML Basic Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rh-dt.About-me)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rh-dt.card)
 
 Halo! 👋  
 Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok banget untuk pemula yang ingin belajar membuat halaman web pertama mereka.
@@ -19,7 +19,7 @@ Ini adalah proyek **About Me** sederhana menggunakan _HTML dasar_ — cocok bang
 ✅ Sedikit styling CSS  
 
 ## 👁️ Lihat preview
-Lihat preview hasil kode di: [https://rh-dt.github.io/About-me/](https://rh-dt.github.io/About-me/)
+Lihat preview hasil kode di: [https://rh-dt.github.io/About-me/](https://rh-dt.github.io/card/)
 
 ---
 
@@ -30,7 +30,7 @@ Lihat preview hasil kode di: [https://rh-dt.github.io/About-me/](https://rh-dt.g
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>About Me - HTML Basic Learning</title>
+  <title>Card - HTML Basic Learning</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -95,7 +95,7 @@ img {
 ✅ Cara clone via Git:
 
 ```bash
-git clone https://github.com/Rh-dt/About-me.git
+git clone https://github.com/Rh-dt/card.git
 ```
 
 ---
